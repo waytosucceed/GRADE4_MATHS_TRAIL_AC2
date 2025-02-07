@@ -1,0 +1,62 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which figure shows halves?",
+    "options": ["1-B.png", "1-A.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which figure shows quarters?",
+    "options": ["2-A.png", "2-B.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Select the picture that shows equal parts.",
+    "options": ["3-A.png", "3-B.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q4",
+    "question": "In the images below, identify the shaded areas and determine if the fractions represented are like fractions or unlike fractions.<br><img width='35%' src='./images/1.png'>",
+    "options": ["Like fractions", "Unlike fractions"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "In the images below, identify the shaded areas and determine if the fractions represented are like fractions or unlike fractions.<br><img width='35%' src='./images/2.png'>",
+    "options": ["Like fractions", "Unlike fractions"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "2/8 + 3/8 = ____?",
+    "options": ["1/8", "5/8", "8/5", "None of the above"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "What is the result of adding the two fractions 13/21 and 6/21?",
+    "options": ["7/21", "13/21", "17/21", "19/21"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Add 3/13 + 5/13 + 8/13 = ____?",
+    "options": ["14/13", "15/13", "16/13", "17/13"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Subtract 3/4 - 2/4 = ____?",
+    "options": ["5/4", "1/4", "2/4", "3/4"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Subtract 6/12 - 5/12 = ____?",
+    "options": ["5/12", "3/12", "1/12", "2/12"],
+    "correct": 2
+  }
+]
